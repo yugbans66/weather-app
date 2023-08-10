@@ -1,0 +1,46 @@
+{
+  "location": {
+    "name": "Bulk",
+    "region": "Diber",
+    "country": "Albanien",
+    "lat": 41.49,
+    "lon": 20.22,
+    "tz_id": "Europe/Tirane",
+    "localtime_epoch": 1691561688,
+    "localtime": "2023-08-09 8:14"
+  },
+  "current": {
+    "last_updated_epoch": 1691560800,
+    "last_updated": "2023-08-09 08:00",
+    "temp_c": 18.0,
+    "temp_f": 64.4,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 2.2,
+    "wind_kph": 3.6,
+    "wind_degree": 106,
+    "wind_dir": "ESE",
+    "pressure_mb": 1015.0,
+    "pressure_in": 29.97,
+    "precip_mm": 0.0,
+
+
+    "precip_in": 0.0,
+    "humidity": 77,
+    "cloud": 0,
+    "feelslike_c": 18.0,
+    "feelslike_f": 64.4,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 4.0,
+    "gust_mph": 8.5,
+    "gust_kph": 13.7
+  }
+}
+
+
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":286.2,"feels_like":285.99,"temp_min":284.34,"temp_max":288.3,"pressure":1015,"humidity":93},"visibility":10000,"wind":{"speed":1.54,"deg":280},"clouds":{"all":96},"dt":1691562307,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1691555755,"sunset":1691609778},"timezone":3600,"id":2643743,"name":"London","cod":200}
