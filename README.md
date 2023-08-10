@@ -1,7 +1,7 @@
 # weather-app
 assignment
 
-# Live
+# live
 https://weather-app-eight-red.vercel.app
 
 # run locally 
